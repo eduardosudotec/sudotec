@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=
+, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   '<fieldset>  
+<h4>opiniao quanto a utilização</h4>
+
+<br>
+ 
+<img src="https://www.fundacaotelefonicavivo.org.br/wp-content/uploads/2021/05/lingua-portuguesa-1200px-facebook.jpg" alt="logo do html">
+<br>
+<label>na frase :eu sou bonito o sujeito e </label>
+<br>
+ <input  type="radio">
+  <label>Brad Pitt</label>
+  <br>
+
+  <input  type="radio">
+  <label>João Da Padaria</label>
+  <br>
+
+  <input  type="radio">
+  <label>Você Mesmo</label>
+  <br>
+
+  <input  type="radio">
+  <label>Meus Pais</label>
+  <br>
+  <input  type="radio">
+  <label>Eu</label>
+
+<br><Br>
+
+    <label>Complete A Frase: "Filho De Peixe, Peixinho   "</label>
+    <Br>
+
+        <input type="checkbox">
+<label>é</label>
+<br>
+
+
+<input type="checkbox">
+<label>tem<label>
+<br>
+
+
+<input type="checkbox">
+<label>bonito</label>
+<br>
+
+<input type="checkbox">
+<label>maria</label>
+
+
+<fieldset>
+
+</fieldset>
+
+
+<label>de uma nota para sua profesora:</label>
+<br><br>
+
+</label>sua professora explica bem a matematica!</label>
+
+<br>  
+
+<input type="range">
+
+<fieldset>
+
+
+
+</fieldset>
+
+<label>opinioes</label>
+<br><br>
+
+<label>digite sua opiniao sobre a diciplina</label>
+<br>
+<textarea></textarea>
+
+</fieldset>
+
+</body>
+</html>
