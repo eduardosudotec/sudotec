@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--div= container de conteudo left ou right-->
+    <div style="background-color: rgb(13, 130, 231);
+   width:25%;
+    float:right;" >
+
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+    </div>
+
+
+
+
+    <!--div= container de conteudo left ou right-->
+    <div style="background-color: rgb(214, 76, 12);
+   width:25%;
+    float:right;" >
+
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+    </div>
+
+
+
+    <!--div= container de conteudo left ou right-->
+    <div style="background-color: rgb(219, 121, 121);
+   width:25%;
+    float:right;" >
+
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+    </div>
+
+
+    <!--div= container de conteudo left ou right-->
+    <div style="background-color: rgb(34, 206, 28);
+   width:25%;
+    float:right;" >
+
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+    </div>
+
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+    <!--div= container de conteudo left ou right-->
+    <div style="background-color: rgb(216, 219, 27);
+   width:25%;
+   float:right; "  >
+
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+    </div>
+
+
+
+    <!--div= container de conteudo left ou right-->
+    <div style="background-color: rgb(81, 32, 173);
+   width:25%;
+    float :left;" >
+
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+    <!--div= container de conteudo left ou right-->
+    <div style="background-color: rgb(19, 161, 172);
+   width:25%;
+    float:right;" >
+
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+    </div>
+
+
+    <!--div= container de conteudo left ou right-->
+    <div style="background-color: rgb(163, 18, 18);
+   width:25%;
+    float:left;" >
+
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+    </div>
+
+
+ <!--div= container de conteudo left ou right-->
+ <div style="background-color: rgb(163, 18, 18);
+ width:25%;
+  float:left;
+border:solid;">
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+  </div>
+
+ <!--div= container de conteudo left ou right-->
+ <div style="background-color: rgb(163, 18, 18);
+ width:25%;
+  
+border:dotted;">
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+  </div>
+
+ <!--div= container de conteudo left ou right-->
+ <div style="background-color: rgb(163, 18, 18);
+ width:25%;
+  
+border:solid;">
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+  </div>
+
+
+
+
+
+ <!--div= container de conteudo left ou right-->
+ <div style="background-color: rgb(30, 202, 233);
+ width:25%;
+
+border:dashed;">
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+  </div>
+
+
+ <!--div= container de conteudo left ou right-->
+ <div style="background-color: rgb(235, 220, 11);
+ width:25%;
+
+border:double;">
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+  </div>
+
+ <!--div= container de conteudo left ou right-->
+ <div style="background-color: rgb(163, 18, 18);
+ width:25%;
+
+border:groove;">
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+  </div>
+
+ <!--div= container de conteudo left ou right-->
+ <div style="background-color: rgb(94, 14, 243);
+ width:25%;
+border:ridge;">
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+  </div>
+
+ <!--div= container de conteudo left ou right-->
+ <div style="background-color: rgb(21, 190, 35);
+ width:25%;
+
+border:groove;">
+<P> voluptantum a assumenda dolorum inventores sed.lo  loren</p>
+  </div>
