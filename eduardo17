@@ -1,0 +1,53 @@
+#id1{
+    margin: 0 auto;
+    width: 980px;
+}
+#header{
+
+          height:  140px;
+
+      background-color: aqua;
+color:crimson;
+font-size:3em;
+text-align:center;
+}
+#menu{
+background-color: aquamarine;
+width: 690px;
+height: 450px;
+float: right;
+}
+#area{
+    background-color: rgb(127, 140, 255);
+    width: 270px;
+    height: 450px;
+    float: left;
+}
+#footer{
+    background-color: rgb(228, 109, 13);
+    width: 980px;
+    height: 450px;
+    margin-top :460px; ;
+
+
+stylesheet"href="estilo.css">
+<title>|document</title>
+</head><link rel="st
+
+</html>
+
+
+<div  id="id1">
+<div id="header">header</div>
+<div id="menu">menu</div>
+<div id="area">area</div>
+<div id="footer">footer</div>
+</div>
+
+ 
+
+   </head>
+
+</html>
+
+
