@@ -1,0 +1,49 @@
+1-pegar a toalha
+2-emtrar no baheiro
+3-tirara roupa
+4-ligar o chuveiro 
+5-se lavar
+6-desligar o chuveiro
+7-se inchugar
+ 8-sair do banheiro
+ 9-vestir a roupa
+ 
+ 
+ 
+ -ir no caixa 
+ -insere o cartao
+ -pede a biometria
+ -selicionar o valor do saque
+ -sistema tem que conferir se eu temho esse saldo
+ -se{if}ue tenho dinheiro
+ -caixa vai disponibilizar
+ -se{if}eu nao  tenho dinheiro
+ -caixa nega a operacao
+ -retorna inserir o valor
+ -encerro a sessao
+ 
+ 
+ -pegar a lanpada
+ -pegar a escada
+ -abrir a escada
+ -se{if}leva um choque
+ -se{if}tiver sem luz
+ -poe a lanpada
+ -se{if}a lanpada for diferente
+ -se{if}tiver menos voltz
+ -se{if}nao funcionar
+ 
+ 
+ 
+ -pegar as notas,entrada
+ -somar elas , processamento
+ -dividir
+ -media,status,final 
+ 
+  entrada:receba quantidade de peca/receba valor da peca/recebacodigo da peca /
+ processamento: /mostre o codigo da peca e seu valor total/
+ saida:cacule o valor das pecas  /
+ 
+ 
+ 
+ 
