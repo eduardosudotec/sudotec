@@ -1,0 +1,39 @@
+1)o que e uma constante!de 2 exenplos.
+ r=e um determinado valor fixo que nao se modifica ao longo do tempo  durante a execucao de um programa
+
+2)o que euma variavel !de2exenplos para cada tipo de dado.
+r=e a representacao simbolica dos elementos de um certo conjunto
+
+
+salario       abono         sainovo
+600,00        60             10%
+350,00        35             10%
+
+
+salario     ir        salliq       expresssao            v ou f
+100,00    0,00        100          (salliq>=100,00)       v
+200,00    10,00       190,00        (salliq<190,00)       f
+300,00    15,00       285,00        (salliq=salario-ir)    v
+
+
+4) 
+(a+c)b  ( )
+(b>=(a+2)  ( )
+c=(b-a)  (  )
+(b+a)<=c  ( )
+(c+a)>b  ( )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
