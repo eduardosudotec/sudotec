@@ -11,6 +11,23 @@ int main(){
         
     }
     
-    
+    #include <stdio.h>
+
+ int main(){
+     int nota =6 ;
+     
+       if(nota > 7){
+           
+           printf("aprovado");
+           
+ else if (nota >=5  && nota <7  ){
+       printf("recuperacao");
+       
+ }else{
+
+printf("reprovado");
+
+
+   
     
     
