@@ -1,0 +1,119 @@
+}
+    //ATIVIDADE 1
+    float celsius, fahrenheit;
+
+    printf("Digite a temperatura em Celsius: ");
+    scanf("%f", &celsius);
+
+    fahrenheit = (celsius * 9/5) + 32;
+
+    printf("%.2f graus Celsius equivalem a %.2f graus Fahrenheit\n", celsius, fahrenheit);
+
+    return 0;
+}
+
+  //ATIVIDADE 2
+    char letra;
+    
+    printf("Digite uma letra: ");
+    scanf("%c", &letra);
+    
+    if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u' ||
+        letra == 'A' || letra == 'E' || letra == 'I' || letra == 'O' || letra == 'U') {
+        printf("A letra digitada eh uma vogal.\n");
+    } else {
+        printf("A letra digitada eh uma consoante.\n");
+    }
+    
+
+   //ATIVIDADE 3
+
+int main() {
+    int n;
+    printf("Digite um número inteiro: ");
+    scanf("%d", &n);
+    printf("Números pares de 0 até %d:\n", n);
+    for(int i=0; i<=n; i+=2) {
+        printf("%d\n", i);
+    }
+    return 0;
+}
+    
+ ATIVIDADE 4
+int main() {
+    char c;
+    printf("Digite um caractere: ");
+    scanf("%c", &c);
+    if(c == 'a' || c == 'A') {
+        printf("A de amor\n");
+    } else if(c == 'b' || c == 'B') {
+        printf("B de baixinho\n");
+    } else if(c == 'c' || c == 'C') {
+        printf("C de coração\n");
+    } else {
+        printf("Caractere invalido\n");
+    }
+    return 0;
+}
+
+\\\\\\\\\\\\
+
+
+
+
+  //ATIVIDADE 5
+  
+   float num1,num2,media;
+   
+   printf("digite o primeiro numero:");
+   scanf("%f", &num1);
+   
+   printf("digite o segundo numero:");
+   scanf("%f", &num2);
+   
+   media = (num1+num2) / 2;
+   
+   printf("A media dos numeros %.2f e %.2f e: %.2f", num1, num2, media);
+   return 0;
+}
+
+
+ ATIVIDADE 6
+int main() {
+    float preco, desconto, precoFinal;
+    int quantidade;
+    printf("Digite o preco do produto: ");
+    scanf("%f", &preco);
+    printf("Digite a quantidade comprada: ");
+    scanf("%d", &quantidade);
+
+    if(preco * quantidade > 100.0) {
+        desconto = preco * quantidade * 0.1;
+    } else {
+        desconto = preco * quantidade * 0.05;
+    }
+
+    precoFinal = preco * quantidade - desconto;
+
+    printf("Preco final com desconto: R$%.2f\n", precoFinal);
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
